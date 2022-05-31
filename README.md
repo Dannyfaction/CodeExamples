@@ -7,12 +7,13 @@ Results and details of the project can be found [**here**](https://dannykruiswij
 
 ## [CustomEngine](https://github.com/Dannyfaction/CodeExamples/tree/main/CustomEngine)
 C++ project for a Windows based Custom Game Engine.  
-Results and details of the project can be found [**here**](https://dannykruiswijk.com/projects/DataFlow.html).
 
 Includes  
 IO File Management  
 Audio Engine Management  
-Graphical User Interface with Entity List and Component Inspector
+Graphical User Interface with Entity List and Component Inspector  
+
+Results and details of the project can be found [**here**](https://dannykruiswijk.com/projects/DataFlow.html).
 
 ## [PipelineToolApplication](https://github.com/Dannyfaction/CodeExamples/tree/main/PipelineToolApplication)
 C# project for automating repetitive tasks in DCC software (Maya & Houdini) using Python scripts.  
