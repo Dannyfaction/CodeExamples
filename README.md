@@ -1,6 +1,6 @@
 # CodeExamples
 A repository full of code examples from different C++ / C# projects I have worked on.  
-All projects include a Visual Studio solution (.vs) which can be build and run to launch the application.
+All projects include a Visual Studio solution (.sln) which can be build and run to launch the application.
 
 ## [DataFlow](https://github.com/Dannyfaction/CodeExamples/tree/main/DataFlow)
 C++ Windows based game made in a Custom Game Engine.
@@ -18,9 +18,11 @@ Results and details of the project can be found [**here**](https://dannykruiswij
 ![PipelineToolApplication Banner](https://dannykruiswijk.com/images/PipelineToolsApplication1280x720.png)
 
 ## [BugReporter](https://github.com/Dannyfaction/CodeExamples/tree/main/DataFlow/FracTowerDefenseSolution/BugReporter)
-C++ Simple executable application for sending BugReports with input and engine logs to a Jira board through a Rest API call.  
+C++ Standalone application for sending BugReports with input and engine logs to a Jira board through a Rest API call.  
 
 Note: Visual Studio solution can be found at /DataFlow/, the BugReporter is made as a part of the DataFlow custom game engine.  
+After building the engine, the executable can be found in the /bin/ directory as BugReporter.exe  
+The engine launches this .exe when the engine has been terminated via an assert.  
 
 Results and details of the project can be found [**here**](https://dannykruiswijk.com/projects/DataFlow.html).
 
