@@ -1,0 +1,56 @@
+[2022-06-01 12:45:53.527] [FileLogger] [info] GLFW version 3.3.0
+[2022-06-01 12:45:53.528] [FileLogger] [info] Resolution Width: 1920 Height: 1080
+[2022-06-01 12:45:53.827] [FileLogger] [info] GLFW OpenGL context version 4.6.0
+[2022-06-01 12:45:53.833] [FileLogger] [info] OpenGL Vendor NVIDIA Corporation
+[2022-06-01 12:45:53.833] [FileLogger] [info] OpenGL Renderer NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2
+[2022-06-01 12:45:53.833] [FileLogger] [info] OpenGL Version 4.6.0 NVIDIA 497.29
+[2022-06-01 12:45:53.833] [FileLogger] [info] OpenGL Shader Version 4.60 NVIDIA
+[2022-06-01 12:45:53.834] [FileLogger] [info] Joystick {XInput Gamepad (GLFW) 0} connected.
+[2022-06-01 12:45:56.824] [FileLogger] [info] Fmod Initialization Complete
+[2022-06-01 12:45:56.824] [FileLogger] [info] Current build version: 220601.292663
+[2022-06-01 12:45:56.955] [FileLogger] [info] Amount of pre loaded levels: 6
+[2022-06-01 12:45:56.956] [FileLogger] [info] [Enemy Director] Max Waves assigned to 5
+[2022-06-01 12:45:56.956] [FileLogger] [info] [Enemy Director] Prep Phase Timer assigned to 20.00
+[2022-06-01 12:45:56.962] [FileLogger] [info] [Game] Entered Load Game State State
+[2022-06-01 12:45:56.962] [FileLogger] [info] [Game] Game Initialized
+[2022-06-01 12:45:57.159] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:00.984] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:04.871] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:08.742] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:12.951] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.076] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.304] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.322] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.521] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.538] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.730] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.746] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.949] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:14.965] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:15.161] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:15.176] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:15.376] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:15.393] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:19.403] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:19.924] [FileLogger] [warning] No normal map found on model Models/Turrets2.0/Basic_turret.gltf
+[2022-06-01 12:46:19.925] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:21.649] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:21.774] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:22.480] [FileLogger] [warning] No normal map found on model Models/Turrets2.0/Launcher_turret.gltf
+[2022-06-01 12:46:22.481] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:22.695] [FileLogger] [warning] Occlusion map is not provided by material and will therefor not be used.
+[2022-06-01 12:46:24.119] [FileLogger] [info] [MainMenuCanvasSystem] Game Started
+[2022-06-01 12:46:24.120] [FileLogger] [info] [Enemy Director] Current Wave assigned to 0
+[2022-06-01 12:46:24.124] [FileLogger] [info] Grid size x:  25
+[2022-06-01 12:46:24.125] [FileLogger] [info] Grid size y:  21
+[2022-06-01 12:46:24.125] [FileLogger] [info] parsed a static core entity
+[2022-06-01 12:46:24.126] [FileLogger] [info] parsed a static enemy spawner entity
+[2022-06-01 12:46:24.126] [FileLogger] [info] parsed a static enemy spawner entity
+[2022-06-01 12:46:24.127] [FileLogger] [info] parsed a static enemy spawner entity
+[2022-06-01 12:46:24.202] [FileLogger] [info] Loading level 0 main asset
+[2022-06-01 12:46:24.203] [FileLogger] [info] [TileManager] Base Found
+[2022-06-01 12:46:24.204] [FileLogger] [info] [TileManager] Flood Fill Started
+[2022-06-01 12:46:24.208] [FileLogger] [info] [TileManager] Flood Fill Completed
+[2022-06-01 12:46:24.208] [FileLogger] [info] Flow Field Started
+[2022-06-01 12:46:24.209] [FileLogger] [info] Flow Field Completed
+[2022-06-01 12:46:38.324] [FileLogger] [info] [Game] Shutting down

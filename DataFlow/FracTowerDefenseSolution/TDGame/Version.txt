@@ -1,0 +1,3 @@
+STRINGIFY( 
+Change 292663 on 2021/07/14 by Tom190683@Tom190683-BlockH '[Changed]  1. Added a memory ba'
+) 
