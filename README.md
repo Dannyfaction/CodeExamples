@@ -9,8 +9,7 @@ Note: Set the "TDGame" project as startup project to build and launch the game.
 
 Results and details of the project can be found [**here**](https://dannykruiswijk.com/projects/DataFlow.html).
 
-Noteworthy contributions:  
-
+Noteworthy contributions to this project:  
 **Engine programming**
 - Project set-up, clean structure with SolutionProperties and discrepancy between the Game and Engine by making use of static and dynamic libraries.
 - IO Filesystem: [FileIO.h](https://github.com/Dannyfaction/CodeExamples/blob/main/DataFlow/FracTowerDefenseSolution/FracEngine/include/Core/FileIO.h) [FileIO.cpp](https://github.com/Dannyfaction/CodeExamples/blob/main/DataFlow/FracTowerDefenseSolution/FracEngine/src/Core/FileIO.cpp)
